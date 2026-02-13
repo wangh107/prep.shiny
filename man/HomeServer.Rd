@@ -9,6 +9,9 @@ HomeServer(id = "Home")
 \arguments{
 \item{strID}{Tab ID}
 }
+\value{
+A Shiny module server function for the home tab.
+}
 \description{
 Server for home tab
 }
