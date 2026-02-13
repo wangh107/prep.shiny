@@ -11,7 +11,7 @@
 #' 
 #' @importFrom shiny callModule
 #'
-#' @return
+#' @return The return value of the module function, if any.
 
 
 moduleServer <- function(id, module, session = getDefaultReactiveDomain()) {

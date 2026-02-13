@@ -2,7 +2,7 @@
 #'
 #' @param strID Tab ID
 #'
-#' @return
+#' @return A Shiny module server function for the home tab.
 
 HomeServer <- function( id="Home" ){
     retModule <- function( input, output, session ){}
